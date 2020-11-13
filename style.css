@@ -302,7 +302,7 @@ nav {
 }
 
 /* Adventure Section */
-.adventures-grid {
+.adventure-grid {
 	display: grid;
 	grid-template-columns: repeat(auto-fit, minmax(25rem, 1fr));
 	grid-gap: 2.5rem;
